@@ -20,6 +20,7 @@ public class categories extends AppCompatActivity{
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_categories);
+        //
         /*F_v=(CardView)findViewById(R.id.fruits);
         soft_drinks=(CardView)findViewById(R.id.drinks);
         documents=(CardView)findViewById(R.id.doc);
